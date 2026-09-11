@@ -34,7 +34,7 @@
     "@angular-devkit/core": "~22.1.2",
     "@angular-devkit/schematics": "~22.1.2",
     "@angular/cli": "~21.1.5",
-    "@angular/compiler": "~20.3.27",
+    "@angular/compiler": "~20.3.28",
     "@angular/compiler-cli": "~15.0.0",
     "@angular/language-service": "~8.1.2",
     "@ionic/angular-toolkit": "^12.3.0",
